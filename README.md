@@ -1,6 +1,6 @@
 # Seminario
 
-Clasificador de objetos por color
+Clasificador de objetos por color :rainbow:
 
 *Universidad Politécnica de Tulancingo*
 
