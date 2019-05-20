@@ -4,6 +4,6 @@
 
 **Clasificador de objetos por color** :rainbow:
 
-**Nombre:** Lizbeth Domínguez Domínguez 
+-**Nombre:** Lizbeth Domínguez Domínguez 
 
-**Asesor:** Arturo Negrete Medellín 
+-**Asesor:** Arturo Negrete Medellín 
