@@ -11,4 +11,4 @@ El proyecto consiste en el diseño y construcción de un sistema de clasificaci�
 El sistema consiste en un tubo que contiene la tapas y las coloca en una banda transportadora que las lleva al sensor y posteriormente, según el color, los contenedores que estan al frente se mueven para que la tapa caiga en el correspondiente.
 
 ![Clasificador de objetos por color]
-(https://github.com/lizdgz/Seminario/blob/master/clasifica.jpg)
+(https://raw.githubusercontent.com/lizdgz/Seminario/master/assets/clasifica.jpg)
